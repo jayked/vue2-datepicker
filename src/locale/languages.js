@@ -17,6 +17,15 @@ export default {
       'dateRange': 'Select Date Range'
     }
   },
+  'nl': {
+    'days': ['Zon', 'Maa', 'Din', 'Woe', 'Don', 'Vri', 'Zat'],
+    'months': ['Jan', 'Feb', 'Maa', 'Apr', 'Mei', 'Jun', 'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dec'],
+    'pickers': ['komende 7 dagen', 'komende 30 dagen', 'afgelopen 7 dagen', 'afgelopen 30 dagen'],
+    'placeholder': {
+      'date': 'Selecteer een datum',
+      'dateRange': 'Selecteer een datum radius'
+    }
+  },
   'ro': {
     'days': ['Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm', 'Dum'],
     'months': ['Ian', 'Feb', 'Mar', 'Apr', 'Mai', 'Iun', 'Iul', 'Aug', 'Sep', 'Oct', 'Noi', 'Dec'],
